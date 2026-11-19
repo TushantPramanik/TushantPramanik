@@ -18,8 +18,10 @@
 
 #### Open tabs
 
-- `TAB 01` **[Leet_Hub](https://github.com/TushantPramanik/Leet_Hub)** · A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)  
+- `TAB 01` **[Leet_Hub](https://github.com/TushantPramanik/Leet_Hub)** · A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
   <sub>Python</sub>
+- `TAB 02` **[Club_Hub](https://github.com/TushantPramanik/club-hub)** · The All-in-One Smart Campus Operating System! 
+  <sub>JavaScript</sub>
 
 <p align="center">
 <picture>
