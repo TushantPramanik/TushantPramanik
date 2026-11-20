@@ -21,7 +21,8 @@
 - `TAB 01` **[Leet_Hub](https://github.com/TushantPramanik/Leet_Hub)** · A collection of LeetCode questions to ace the coding interview ! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 - `TAB 02` **[Club_Hub](https://github.com/TushantPramanik/club-hub)** · The All-in-One Smart Campus Operating System !
-- `TAB 03` **[CAATS_University](https://github.com/TushantPramanik/CAATS_University)** · A beginner-friendly, full-stack academic counselling and admissions web portal !  
+- `TAB 03` **[CAATS_University](https://github.com/TushantPramanik/CAATS_University)** · A beginner-friendly, full-stack academic counselling and admissions web portal !
+- `TAB 04` **[BEYOONEEK](https://github.com/TushantPramanik/BEYOONEEK)** · Next-Gen Futuristic OTT Streaming Platform ! 
 
 <p align="center">
 <picture>
